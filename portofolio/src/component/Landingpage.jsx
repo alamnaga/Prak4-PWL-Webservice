@@ -1,6 +1,6 @@
 import React from 'react'
 import {createUseStyles} from 'react-jss'
-import Alam from '../assets/profile.gif'
+import Alam from '../assets/yom.jpg'
 import {useNavigate} from "react-router-dom";
 
 const Landingpage = () => {
